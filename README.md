@@ -1,6 +1,6 @@
-### Hello! 👋
+# Hello! 👋
 
-# 💫Get to know me :
+### 💫Get to know me :
 - 🔭 I’m currently working on full stack music player web application with a recommendation system
 - 🌱 I’m currently learning Data structures and Algorithms
 - 👯 I’m looking to collaborate on any project/idea
