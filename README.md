@@ -1,11 +1,11 @@
 # Hello! 👋
 
 ### 💫Get to know me :
-- 🔭 I’m currently working on full stack music player web application with a recommendation system
+- 🔭 I’m currently working on Intelligent Document Processing Application
 - 🌱 I’m currently learning Data structures and Algorithms
 - 👯 I’m looking to collaborate on any project/idea
 - 🤔 I’m looking for help with Machine Learning
-- 💬 Ask me about Big Data
+- 💬 Ask me about Relational Database Management Systems
 - 📫 How to reach me: +91 9891432300
 - 😄 Pronouns: He/Him
 
