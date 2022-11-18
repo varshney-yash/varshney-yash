@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Intelligent Document Processing Application
 - 🌱 I’m currently learning Data structures and Algorithms
 - 👯 I’m looking to collaborate on any project/idea
-- 🤔 I’m looking for help with Machine Learning
+- 🤔 I’m looking for help with Natural Language Processing and IOT
 - 💬 Ask me about Relational Database Management Systems
 - 📫 How to reach me: +91 9891432300
 - 😄 Pronouns: He/Him
